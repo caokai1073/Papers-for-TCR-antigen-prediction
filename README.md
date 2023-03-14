@@ -2,7 +2,7 @@
 A resource for researchers studying TCR antigen specificity
 
 ## Database
-### [VDJDB](https://vdjdb.cdr3.net/)
+### [VDJdb](https://vdjdb.cdr3.net/)
 
 ### [IEDB](https://www.iedb.org/)
 
