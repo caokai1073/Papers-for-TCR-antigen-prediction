@@ -30,7 +30,7 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 + [ATM-TCR: TCR-Epitope Binding Affinity Prediction Using a Multi-Head Self-Attention Model](https://doi.org/10.3389/fimmu.2022.893247) [Frontiers in Immunology, 2022]
 
 #### TCR-Epitope
-+ [Deep learning reveals predictive sequence concepts within immune repertoires to immunotherapy](DOI: 10.1126/sciadv.abq5089) [Science Advance, 2022]
++ [Deep learning reveals predictive sequence concepts within immune repertoires to immunotherapy](https://doi.org/10.1126/sciadv.abq5089) [Science Advance, 2022]
 + [DeepTCR is a deep learning framework for revealing sequence concepts within T-cell repertoires](https://doi.org/10.1038/s41467-021-21879-w) [Nature Communications, 2021]
 + [Deep learning-based prediction of the T cell receptor–antigen binding specificity](https://doi.org/10.1038/s42256-021-00383-2) [Nature Machine Intelligence, 2021]
 + [TITAN: T-cell receptor specificity prediction with bimodal attention networks](https://doi.org/10.1093/bioinformatics/btab294) [ISMB, 2021]
