@@ -21,11 +21,13 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 ### Benchmark
 + [Benchmarking solutions to the T-cell receptor epitope prediction problem: IMMREP22 workshop report](https://doi.org/10.1016/j.immuno.2023.100024) [ImmunoInformatics, 2023]
 
-### Arxiv
+### Preprint
 + [PiTE: TCR-epitope Binding Affinity Prediction Pipeline using Transformer-based Sequence Encoder](http://psb.stanford.edu/psb-online/proceedings/psb23/zhang_p.pdf)[Pacific Symposium on Biocomputing, 2023]
++ 
 ### Journal
 #### Peptide-HLA
 + [A transformer-based model to predict peptide–HLA class I binding and optimize mutated peptides for vaccine design](https://doi.org/10.1038/s42256-022-00459-7) [Nature Machine Intelligence, 2022]
++ [ATM-TCR: TCR-Epitope Binding Affinity Prediction Using a Multi-Head Self-Attention Model](https://doi.org/10.3389/fimmu.2022.893247)[Frontiers in Immunology, 2022]
 
 #### TCR-Epitope
 + [TITAN: T-cell receptor specificity prediction with bimodal attention networks](https://doi.org/10.1093/bioinformatics/btab294) [ISMB, 2021]
