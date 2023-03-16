@@ -16,15 +16,16 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 
 ### Survey
 + [Can we predict T cell specificity with digital biology and machine learning?](https://www.nature.com/articles/s41577-023-00835-3) [Nature Reviews Immunology, 2023]
++ [Predicting Cross-Reactivity and Antigen Specificity of T Cell Receptors](https://doi.org/10.3389/fimmu.2020.565096) [Frontiers in Immunology, 2020]
 
 ### Benchmark
 + [Benchmarking solutions to the T-cell receptor epitope prediction problem: IMMREP22 workshop report](https://doi.org/10.1016/j.immuno.2023.100024) [ImmunoInformatics, 2023]
 
 ### Arxiv
-
++ [PiTE: TCR-epitope Binding Affinity Prediction Pipeline using Transformer-based Sequence Encoder]()
 ### Journal
 #### Peptide-HLA
 + [A transformer-based model to predict peptide–HLA class I binding and optimize mutated peptides for vaccine design](https://doi.org/10.1038/s42256-022-00459-7) [Nature Machine Intelligence, 2022]
 
 #### TCR-Epitope
-+ [TITAN: T-cell receptor specificity prediction with bimodal attention networks](https://doi.org/10.1093/bioinformatics/btab294) [Bioinformatics, 2021]
++ [TITAN: T-cell receptor specificity prediction with bimodal attention networks](https://doi.org/10.1093/bioinformatics/btab294) [ISMB, 2021]
