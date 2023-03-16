@@ -23,3 +23,8 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 ### Arxiv
 
 ### Journal
+#### Peptide-HLA
++ [A transformer-based model to predict peptide–HLA class I binding and optimize mutated peptides for vaccine design](https://doi.org/10.1038/s42256-022-00459-7)[Nature Machine Intelligence, 2022]
+
+#### TCR-Epitope
++ [TITAN: T-cell receptor specificity prediction with bimodal attention networks](https://doi.org/10.1093/bioinformatics/btab294)[Bioinformatics, 2021]
