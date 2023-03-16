@@ -12,3 +12,7 @@ The Immune Epitope Database (IEDB) is a freely available resource funded by NIAI
 McPAS-TCR is a manually curated catalogue of T cell receptor (TCR) sequences that were found in T cells associated with various pathological conditions in humans and in mice. It is meant to link TCR sequences to their antigen target or to the pathology and organ with which they are associated.
 The database can be queried by disease condition, T cell type, tissue, epitope, source organism, MHC restriction, assay type and other criteria.
 
+## Papers
+
+### Survey
+[Can we predict T cell specificity with digital biology and machine learning?](https://www.nature.com/articles/s41577-023-00835-3) [Nature Reviews Immunology, 2023]
