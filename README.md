@@ -1,5 +1,5 @@
 # TCR-Antigen-Specificity-Resource
-A resource for researchers studying TCR antigen specificity
+A resource for researchers studying TCR antigen specificity. Welcome to make your contributions to this repo!
 
 ## Database
 ### [VDJdb](https://vdjdb.cdr3.net/)
