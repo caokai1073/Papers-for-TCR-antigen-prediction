@@ -23,7 +23,7 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 
 ### Preprint
 + [PiTE: TCR-epitope Binding Affinity Prediction Pipeline using Transformer-based Sequence Encoder](http://psb.stanford.edu/psb-online/proceedings/psb23/zhang_p.pdf) [Pacific Symposium on Biocomputing, 2023]
-+ 
+
 ### Journal
 #### Peptide-HLA
 + [A transformer-based model to predict peptide–HLA class I binding and optimize mutated peptides for vaccine design](https://doi.org/10.1038/s42256-022-00459-7) [Nature Machine Intelligence, 2022]
@@ -35,4 +35,4 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 + [DeepTCR is a deep learning framework for revealing sequence concepts within T-cell repertoires](https://doi.org/10.1038/s41467-021-21879-w) [Nature Communications, 2021]
 + [Deep learning-based prediction of the T cell receptor–antigen binding specificity](https://doi.org/10.1038/s42256-021-00383-2) [Nature Machine Intelligence, 2021]
 + [TITAN: T-cell receptor specificity prediction with bimodal attention networks](https://doi.org/10.1093/bioinformatics/btab294) [ISMB, 2021]
-+ [NetTCR-2.0 enables accurate prediction of TCR-peptide binding by using paired TCRα and β sequence data](https://www.nature.com/articles/s42003-021-02610-3)(Communications Biology, 2021)
++ [NetTCR-2.0 enables accurate prediction of TCR-peptide binding by using paired TCRα and β sequence data](https://www.nature.com/articles/s42003-021-02610-3)[Communications Biology, 2021]
