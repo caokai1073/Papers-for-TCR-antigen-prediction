@@ -27,9 +27,10 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 ### Journal
 #### Peptide-HLA
 + [A transformer-based model to predict peptide–HLA class I binding and optimize mutated peptides for vaccine design](https://doi.org/10.1038/s42256-022-00459-7) [Nature Machine Intelligence, 2022]
-+ [ATM-TCR: TCR-Epitope Binding Affinity Prediction Using a Multi-Head Self-Attention Model](https://doi.org/10.3389/fimmu.2022.893247) [Frontiers in Immunology, 2022]
+
 
 #### TCR-Epitope
++ [ATM-TCR: TCR-Epitope Binding Affinity Prediction Using a Multi-Head Self-Attention Model](https://doi.org/10.3389/fimmu.2022.893247) [Frontiers in Immunology, 2022]
 + [Deep learning reveals predictive sequence concepts within immune repertoires to immunotherapy](https://doi.org/10.1126/sciadv.abq5089) [Science Advance, 2022]
 + [DeepTCR is a deep learning framework for revealing sequence concepts within T-cell repertoires](https://doi.org/10.1038/s41467-021-21879-w) [Nature Communications, 2021]
 + [Deep learning-based prediction of the T cell receptor–antigen binding specificity](https://doi.org/10.1038/s42256-021-00383-2) [Nature Machine Intelligence, 2021]
