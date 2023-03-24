@@ -24,6 +24,7 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 
 ### Preprint
 + [PiTE: TCR-epitope Binding Affinity Prediction Pipeline using Transformer-based Sequence Encoder](http://psb.stanford.edu/psb-online/proceedings/psb23/zhang_p.pdf) [Pacific Symposium on Biocomputing, 2023]
++ [TCRconv: predicting recognition between T cell receptors and epitopes using contextualized motifs]()
 
 ### Journal
 #### Peptide-HLA
@@ -38,3 +39,4 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 + [TITAN: T-cell receptor specificity prediction with bimodal attention networks](https://doi.org/10.1093/bioinformatics/btab294) [ISMB, 2021]
 + [NetTCR-2.0 enables accurate prediction of TCR-peptide binding by using paired TCRα and β sequence data](https://www.nature.com/articles/s42003-021-02610-3) [Communications Biology, 2021]
 + [Current challenges for unseen-epitope TCR interaction prediction and a new perspective derived from image classification](https://doi.org/10.1093/bib/bbaa318) [Briefings in Bioinformatics, 2021]
++ [TCRconv: predicting recognition between T cell receptors and epitopes using contextualized motifs](https://doi.org/10.1093/bioinformatics/btac788) [Bioinformatics, 2022]
