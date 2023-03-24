@@ -29,7 +29,7 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 ### Journal
 #### Peptide-HLA
 + [A transformer-based model to predict peptide–HLA class I binding and optimize mutated peptides for vaccine design](https://doi.org/10.1038/s42256-022-00459-7) [Nature Machine Intelligence, 2022]
-
++ [A large peptidome dataset improves HLA class I epitope prediction across most of the human population](https://doi.org/10.1038/s41587-019-0322-9) [Nature Biotechnology, 2020]
 
 #### TCR-Epitope
 + [ATM-TCR: TCR-Epitope Binding Affinity Prediction Using a Multi-Head Self-Attention Model](https://doi.org/10.3389/fimmu.2022.893247) [Frontiers in Immunology, 2022]
@@ -40,3 +40,4 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 + [NetTCR-2.0 enables accurate prediction of TCR-peptide binding by using paired TCRα and β sequence data](https://www.nature.com/articles/s42003-021-02610-3) [Communications Biology, 2021]
 + [Current challenges for unseen-epitope TCR interaction prediction and a new perspective derived from image classification](https://doi.org/10.1093/bib/bbaa318) [Briefings in Bioinformatics, 2021]
 + [TCRconv: predicting recognition between T cell receptors and epitopes using contextualized motifs](https://doi.org/10.1093/bioinformatics/btac788) [Bioinformatics, 2022]
+
