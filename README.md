@@ -15,12 +15,12 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 ## Papers
 
 ### Survey
-+ [Can we predict T cell specificity with digital biology and machine learning?](https://www.nature.com/articles/s41577-023-00835-3) [Nature Reviews Immunology, 2023]
-+ [T Cell Epitope Prediction and Its Application to Immunotherapy](https://www.frontiersin.org/articles/10.3389/fimmu.2021.712488/full) [Frontiers in Immunology, 2021]
-+ [Predicting Cross-Reactivity and Antigen Specificity of T Cell Receptors](https://doi.org/10.3389/fimmu.2020.565096) [Frontiers in Immunology, 2020]
++ [Can we predict T cell specificity with digital biology and machine learning?](https://www.nature.com/articles/s41577-023-00835-3) [Nature Reviews Immunology, 2023] (Hashem Koohy*, University of Oxford)
++ [T Cell Epitope Prediction and Its Application to Immunotherapy](https://www.frontiersin.org/articles/10.3389/fimmu.2021.712488/full) [Frontiers in Immunology, 2021] (Paolo Marcatili*, Technical University of Denmark)
++ [Predicting Cross-Reactivity and Antigen Specificity of T Cell Receptors](https://doi.org/10.3389/fimmu.2020.565096) [Frontiers in Immunology, 2020] (Hashem Koohy*, University of Oxford)
 
 ### Benchmark
-+ [Benchmarking solutions to the T-cell receptor epitope prediction problem: IMMREP22 workshop report](https://doi.org/10.1016/j.immuno.2023.100024) [ImmunoInformatics, 2023]
++ [Benchmarking solutions to the T-cell receptor epitope prediction problem: IMMREP22 workshop report](https://doi.org/10.1016/j.immuno.2023.100024) [ImmunoInformatics, 2023] (Virag Sharma*, University of Limerick)
 
 ### Preprint
 + [PiTE: TCR-epitope Binding Affinity Prediction Pipeline using Transformer-based Sequence Encoder](http://psb.stanford.edu/psb-online/proceedings/psb23/zhang_p.pdf) [Pacific Symposium on Biocomputing, 2023] (Heewook Lee*, Arizona State University)
