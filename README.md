@@ -32,8 +32,8 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 + [A large peptidome dataset improves HLA class I epitope prediction across most of the human population](https://doi.org/10.1038/s41587-019-0322-9) [Nature Biotechnology, 2020]
 
 #### TCR-Epitope
-+ [Characterizing the interaction conformation between T-cell receptors and epitopes with deep learning](https://doi.org/10.1038/s42256-023-00634-4) [nature machine intelligence, 2023] (Tsinghua University)
-+ [Pan-Peptide Meta Learning for T-cell receptor–antigen binding recognition](https://www.nature.com/articles/s42256-023-00619-3) [Nature Machine Intelligence, 2023]
++ [Characterizing the interaction conformation between T-cell receptors and epitopes with deep learning](https://doi.org/10.1038/s42256-023-00634-4) [nature machine intelligence, 2023] (Jianyang Zeng, Tsinghua University)
++ [Pan-Peptide Meta Learning for T-cell receptor–antigen binding recognition](https://www.nature.com/articles/s42256-023-00619-3) [Nature Machine Intelligence, 2023] (Qi Liu, Tongji University)
 + [ATM-TCR: TCR-Epitope Binding Affinity Prediction Using a Multi-Head Self-Attention Model](https://doi.org/10.3389/fimmu.2022.893247) [Frontiers in Immunology, 2022]
 + [Deep learning reveals predictive sequence concepts within immune repertoires to immunotherapy](https://doi.org/10.1126/sciadv.abq5089) [Science Advance, 2022]
 + [TCRconv: predicting recognition between T cell receptors and epitopes using contextualized motifs](https://doi.org/10.1093/bioinformatics/btac788) [Bioinformatics, 2022]
