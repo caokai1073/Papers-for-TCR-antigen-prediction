@@ -23,8 +23,8 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 + [Benchmarking solutions to the T-cell receptor epitope prediction problem: IMMREP22 workshop report](https://doi.org/10.1016/j.immuno.2023.100024) [ImmunoInformatics, 2023]
 
 ### Preprint
-+ [PiTE: TCR-epitope Binding Affinity Prediction Pipeline using Transformer-based Sequence Encoder](http://psb.stanford.edu/psb-online/proceedings/psb23/zhang_p.pdf) [Pacific Symposium on Biocomputing, 2023]
-+ [TCRconv: predicting recognition between T cell receptors and epitopes using contextualized motifs]()
++ [PiTE: TCR-epitope Binding Affinity Prediction Pipeline using Transformer-based Sequence Encoder](http://psb.stanford.edu/psb-online/proceedings/psb23/zhang_p.pdf) [Pacific Symposium on Biocomputing, 2023] (Heewook Lee*, Arizona State University)
++ [TCRconv: predicting recognition between T cell receptors and epitopes using contextualized motifs](https://doi.org/10.1093/bioinformatics/btac788) [Bioinformatics, 2023] (Harri Lahdesmaki*, Aalto University)
 
 ### Journal
 #### Peptide-HLA
@@ -40,8 +40,8 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 + [TCRconv: predicting recognition between T cell receptors and epitopes using contextualized motifs](https://doi.org/10.1093/bioinformatics/btac788) [Bioinformatics, 2022]
 + [DeepTCR is a deep learning framework for revealing sequence concepts within T-cell repertoires](https://doi.org/10.1038/s41467-021-21879-w) [Nature Communications, 2021]
 + [Deep learning-based prediction of the T cell receptor–antigen binding specificity](https://doi.org/10.1038/s42256-021-00383-2) [Nature Machine Intelligence, 2021]
-+ [TITAN: T-cell receptor specificity prediction with bimodal attention networks](https://doi.org/10.1093/bioinformatics/btab294) [ISMB, 2021] (Marı ́a Rodriguez Mart ́ınez*, ETH Zurich)
-+ [NetTCR-2.0 enables accurate prediction of TCR-peptide binding by using paired TCRα and β sequence data](https://www.nature.com/articles/s42003-021-02610-3) [Communications Biology, 2021]
++ [TITAN: T-cell receptor specificity prediction with bimodal attention networks](https://doi.org/10.1093/bioinformatics/btab294) [ISMB, 2021] (Maria Rodriguez Martinez*, ETH Zurich)
++ [NetTCR-2.0 enables accurate prediction of TCR-peptide binding by using paired TCRα and β sequence data](https://www.nature.com/articles/s42003-021-02610-3) [Communications Biology, 2021] (Pieter Meysman*, University of Antwerp)
 + [Current challenges for unseen-epitope TCR interaction prediction and a new perspective derived from image classification](https://doi.org/10.1093/bib/bbaa318) [Briefings in Bioinformatics, 2021]
 + [Predicting recognition between T cell receptors and epitopes with TCRGP](10.1371/journal.pcbi.1008814) [PLOS Computaional Biology, 2021]
 
