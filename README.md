@@ -42,6 +42,6 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 + [Deep learning-based prediction of the T cell receptor–antigen binding specificity](https://doi.org/10.1038/s42256-021-00383-2) [Nature Machine Intelligence, 2021] (Tao Wang*, University of Texas Southwestern Medical Center)
 + [TITAN: T-cell receptor specificity prediction with bimodal attention networks](https://doi.org/10.1093/bioinformatics/btab294) [ISMB, 2021] (Maria Rodriguez Martinez*, ETH Zurich)
 + [NetTCR-2.0 enables accurate prediction of TCR-peptide binding by using paired TCRα and β sequence data](https://www.nature.com/articles/s42003-021-02610-3) [Communications Biology, 2021] (Pieter Meysman*, University of Antwerp)
-+ [Current challenges for unseen-epitope TCR interaction prediction and a new perspective derived from image classification](https://doi.org/10.1093/bib/bbaa318) [Briefings in Bioinformatics, 2021]
++ [Current challenges for unseen-epitope TCR interaction prediction and a new perspective derived from image classification](https://doi.org/10.1093/bib/bbaa318) [Briefings in Bioinformatics, 2021] (Pieter Meysman*, University of Antwerp)
 + [Predicting recognition between T cell receptors and epitopes with TCRGP](10.1371/journal.pcbi.1008814) [PLOS Computaional Biology, 2021]
 
