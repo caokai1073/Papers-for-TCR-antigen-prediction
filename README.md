@@ -32,14 +32,15 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 + [A large peptidome dataset improves HLA class I epitope prediction across most of the human population](https://doi.org/10.1038/s41587-019-0322-9) [Nature Biotechnology, 2020]
 
 #### TCR-Epitope
-+ [Characterizing the interaction conformation between T-cell receptors and epitopes with deep learning](https://doi.org/10.1038/s42256-023-00634-4) [nature machine intelligence, 2023] (Jianyang Zeng, Tsinghua University)
-+ [Pan-Peptide Meta Learning for T-cell receptor–antigen binding recognition](https://www.nature.com/articles/s42256-023-00619-3) [Nature Machine Intelligence, 2023] (Qi Liu, Tongji University)
++ [TEINet: a deep learning framework for prediction of TCR–epitope binding specificity](https://doi.org/10.1093/bib/bbad086) [Briefings in Bioinformatics, 2023] (Shuai Cheng Li*, City University of Hong Kong)
++ [Characterizing the interaction conformation between T-cell receptors and epitopes with deep learning](https://doi.org/10.1038/s42256-023-00634-4) [nature machine intelligence, 2023] (Jianyang Zeng*, Tsinghua University)
++ [Pan-Peptide Meta Learning for T-cell receptor–antigen binding recognition](https://www.nature.com/articles/s42256-023-00619-3) [Nature Machine Intelligence, 2023] (Qi Liu*, Tongji University)
 + [ATM-TCR: TCR-Epitope Binding Affinity Prediction Using a Multi-Head Self-Attention Model](https://doi.org/10.3389/fimmu.2022.893247) [Frontiers in Immunology, 2022]
-+ [Deep learning reveals predictive sequence concepts within immune repertoires to immunotherapy](https://doi.org/10.1126/sciadv.abq5089) [Science Advance, 2022]
++ [Deep learning reveals predictive sequence concepts within immune repertoires to immunotherapy](https://doi.org/10.1126/sciadv.abq5089) [Science Advance, 2022] (Tao Wang*, University of Texas Southwestern Medical Center)
 + [TCRconv: predicting recognition between T cell receptors and epitopes using contextualized motifs](https://doi.org/10.1093/bioinformatics/btac788) [Bioinformatics, 2022]
 + [DeepTCR is a deep learning framework for revealing sequence concepts within T-cell repertoires](https://doi.org/10.1038/s41467-021-21879-w) [Nature Communications, 2021]
 + [Deep learning-based prediction of the T cell receptor–antigen binding specificity](https://doi.org/10.1038/s42256-021-00383-2) [Nature Machine Intelligence, 2021]
-+ [TITAN: T-cell receptor specificity prediction with bimodal attention networks](https://doi.org/10.1093/bioinformatics/btab294) [ISMB, 2021]
++ [TITAN: T-cell receptor specificity prediction with bimodal attention networks](https://doi.org/10.1093/bioinformatics/btab294) [ISMB, 2021] (Marı ́a Rodriguez Mart ́ınez*, ETH Zurich)
 + [NetTCR-2.0 enables accurate prediction of TCR-peptide binding by using paired TCRα and β sequence data](https://www.nature.com/articles/s42003-021-02610-3) [Communications Biology, 2021]
 + [Current challenges for unseen-epitope TCR interaction prediction and a new perspective derived from image classification](https://doi.org/10.1093/bib/bbaa318) [Briefings in Bioinformatics, 2021]
 + [Predicting recognition between T cell receptors and epitopes with TCRGP](10.1371/journal.pcbi.1008814) [PLOS Computaional Biology, 2021]
