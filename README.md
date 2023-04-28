@@ -1,4 +1,4 @@
-# TCR-Antigen-Specificity-Resource
+# TCR-Antigen-Specificity
 A resource for researchers studying TCR antigen specificity. Welcome to make your contributions to this repo!
 
 ## Database
