@@ -28,7 +28,7 @@ The database can be queried by disease condition, T cell type, tissue, epitope, 
 
 ### Journal
 #### Peptide-HLA
-+ [HLA-II immunopeptidome profiling and deep learning reveal features of antigenicity to inform antigen discovery](https://doi.org/10.1016/j.immuni.2023.05.009) [Immunity] (Ramnik Xavier*, Daniel B Graham*, 2023)
++ [HLA-II immunopeptidome profiling and deep learning reveal features of antigenicity to inform antigen discovery](https://doi.org/10.1016/j.immuni.2023.05.009) [Immunity, 2023] (Ramnik Xavier*, Daniel B Graham*, Broad Institute of MIT and Harvard)
 + [A transformer-based model to predict peptide–HLA class I binding and optimize mutated peptides for vaccine design](https://doi.org/10.1038/s42256-022-00459-7) [Nature Machine Intelligence, 2022] (Dong-Qing Wei*, Shanghai Jiao Tong University)
 + [A large peptidome dataset improves HLA class I epitope prediction across most of the human population](https://doi.org/10.1038/s41587-019-0322-9) [Nature Biotechnology, 2020] (Derin B. Keskin*, Broad Institute of MIT and Harvard)
 
